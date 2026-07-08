@@ -4,7 +4,7 @@ Sistema de Controle de Estoque desenvolvido em **PHP** utilizando o padrão de a
 
 ## Tela do Sistema
 
-![Tela Principal](images/tela-principal.png)
+![Tela Principal](public/images/tela-principal.png)
 
 ---
 
